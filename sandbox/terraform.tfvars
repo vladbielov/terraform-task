@@ -1,1 +1,1 @@
-environment = "sed"
+environment = "dev"
